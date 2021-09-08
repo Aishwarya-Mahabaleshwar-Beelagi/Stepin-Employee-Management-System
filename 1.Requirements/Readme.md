@@ -5,6 +5,7 @@
 
 ## Objectives
 
+![swot](https://user-images.githubusercontent.com/89735341/132437470-0567b464-d93c-42cc-8577-c38b41fc7aea.png)
 
  
 Helps to store and maintain the database of employees information.
