@@ -11,7 +11,8 @@ Helps to store and maintain the database of employees information.
 
 User friendly system
 ## Cost and Features and Timeline
-![Description](Link to Pic)
+![Description](Link ![swot](https://user-images.githubusercontent.com/89735341/132437398-6377e9ee-17f2-4caa-a385-ad344222c4b7.png)
+to Pic)
 -- Content 
 ## Defining Our System
     -- TBD
