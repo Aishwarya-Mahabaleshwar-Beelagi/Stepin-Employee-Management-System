@@ -15,15 +15,15 @@
 #include <conio.h>
 #include <ctype.h>
 #include <windows.h>
-
+#include "emp.h"
 // Structure of the employee
-struct emp {
+struct employee {
 	char name[50];
 	float salary;
 	int age;
 	int id;
 };
-struct emp e1;
+struct employee e1;
 
 // size of the structure
 long int size = sizeof(e1);
@@ -45,30 +45,6 @@ void gotoxy(int x, int y)
 
 
 FILE *fp, *ft;
-
-// Function to add the records
-
-
-// Function to delete the records
-void deleterecord()
-{
-	
-}
-
-
-// Function to display the record
-void displayrecord()
-{
-	
-}
-
-// Function to modify the record
-void modifyrecord()
-{
-	
-}
-
-
 int main()
 {
 	int choice;
