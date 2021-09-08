@@ -16,7 +16,7 @@ User friendly system
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-(https://user-images.githubusercontent.com/89735341/132437056-4020bde6-4861-42c3-8d77-40384df05db0.png)
+![(https://user-images.githubusercontent.com/89735341/132437056-4020bde6-4861-42c3-8d77-40384df05db0.png)]
 
 
 # 4W&#39;s and 1&#39;H
