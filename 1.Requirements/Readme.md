@@ -40,10 +40,17 @@ to Pic)
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+| ID | Description | Category | Status
+| --- | --- | --- | --- |
+| HR01 | User shall be able to add new employees. | Technical | Implemented
+| HR02 | User shall be able to view employee details. | Technical | Implemented
+| HR03 | User shall be able to edit employee details. | Technical | Implemented
+| HR04 | User shall be able to delete employee details. | Technical | Implemented
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+| ID | Description | Category | Status
+| --- | --- | --- | --- |
+| LR01 | Checks if employee data is in correct format or not.  | HR01 | Implemented
