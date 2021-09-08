@@ -12,5 +12,5 @@
 | Test ID | Description                                              | Exp I/P | Exp O/P | Actual Out |Pass or Fail  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01    |View employee details                       |Eg.XYZ | Employee name is not in data | Employee name is not in data | Pass |
-|  L_02   |Dete employee details|Eg.XYZ |can not delete data becuase employee name is not in data |can not delete data becuase employee name is not in data | Pass|
+|  L_02   |Delete employee details|Eg.XYZ |can not delete data becuase employee name is not in data |can not delete data becuase employee name is not in data | Pass|
 
