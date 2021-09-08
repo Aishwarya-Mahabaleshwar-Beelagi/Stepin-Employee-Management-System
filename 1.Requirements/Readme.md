@@ -5,20 +5,19 @@
 
 ## Objectives
 
-![swot](https://user-images.githubusercontent.com/89735341/132437470-0567b464-d93c-42cc-8577-c38b41fc7aea.png)
-
  
 Helps to store and maintain the database of employees information.
 
 User friendly system
 ## Cost and Features and Timeline
-![Description](Link ![swot](https://user-images.githubusercontent.com/89735341/132437398-6377e9ee-17f2-4caa-a385-ad344222c4b7.png)
+![Description](Link 
 to Pic)
 -- Content 
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![(https://user-images.githubusercontent.com/89735341/132437056-4020bde6-4861-42c3-8d77-40384df05db0.png)]
+![swot](https://user-images.githubusercontent.com/89735341/132437555-0cc03e98-6313-4192-9f32-17f1fb8f2e45.png)
+
 
 
 # 4W&#39;s and 1&#39;H
