@@ -24,23 +24,19 @@ to Pic)
 
 ## Who:
 
-**TBD**
+**Only Authorized people can use this application.**
 
 ## What:
 
-**TBD**
+**This application manages employees data.**
 
 ## When:
 
-**TBD**
-
-## Where:
-
-**TBD**
+**Used to maintain employee data**
 
 ## How:
 
-**TBD**
+**Implemented using structure,pointers and other functionalities of C.**
 
 # Detail requirements
 ## High Level Requirements:
