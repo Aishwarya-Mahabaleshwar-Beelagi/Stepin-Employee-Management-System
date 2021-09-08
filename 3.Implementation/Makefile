@@ -1,6 +1,6 @@
 
-target : main.c
-    gcc emp1.c -o b.exe
+target : emp1.c features.c emp.h
+    gcc emp1.c features.c emp.h -o b.exe
 
 run : target
     ./b.exe
