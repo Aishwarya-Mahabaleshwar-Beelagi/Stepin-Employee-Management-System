@@ -1,11 +1,15 @@
 # Requirements
 ## Introduction
- --- TBD
+
  Employee Record Management System is used to manage the data of the employees such as name,employee id etc.
 
-## Research
+## Objectives
 ![Description](Link to Pic)
--- Content 
+
+ 
+Helps to store and maintain the database of employees information.
+
+User friendly system
 ## Cost and Features and Timeline
 ![Description](Link to Pic)
 -- Content 
